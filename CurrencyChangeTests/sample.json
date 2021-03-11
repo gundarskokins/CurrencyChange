@@ -1,0 +1,309 @@
+{
+    "data": [
+        {
+            "id": "AUD",
+            "description": "Australian Dollar",
+            "reverseUsdQuot": true,
+            "rates": [
+                {
+                    "currency": "EUR",
+                    "description": "Euro",
+                    "sellRate": "1.5",
+                    "buyRate": "1.575",
+                    "sellTransfer": "1.5124",
+                    "buyTransfer": "1.5665"
+                },
+                {
+                    "currency": "USD",
+                    "description": "US Dollar",
+                    "sellRate": "0.756",
+                    "buyRate": "0.797",
+                    "sellTransfer": "0.7611",
+                    "buyTransfer": "0.7884"
+                }
+            ]
+        },
+        {
+            "id": "BYN",
+            "description": "Belarus Rouble",
+            "reverseUsdQuot": false,
+            "rates": [
+                {
+                    "currency": "EUR",
+                    "description": "Euro"
+                },
+                {
+                    "currency": "USD",
+                    "description": "US Dollar"
+                }
+            ]
+        },
+        {
+            "id": "CAD",
+            "description": "Canadian Dollar",
+            "reverseUsdQuot": false,
+            "rates": [
+                {
+                    "currency": "EUR",
+                    "description": "Euro",
+                    "sellTransfer": "1.478",
+                    "buyTransfer": "1.531"
+                },
+                {
+                    "currency": "USD",
+                    "description": "US Dollar",
+                    "sellTransfer": "1.239",
+                    "buyTransfer": "1.283"
+                }
+            ]
+        },
+        {
+            "id": "CHF",
+            "description": "Swiss Franc",
+            "reverseUsdQuot": false,
+            "rates": [
+                {
+                    "currency": "EUR",
+                    "description": "Euro",
+                    "sellTransfer": "1.087",
+                    "buyTransfer": "1.132"
+                },
+                {
+                    "currency": "USD",
+                    "description": "US Dollar",
+                    "sellTransfer": "0.912",
+                    "buyTransfer": "0.949"
+                }
+            ]
+        },
+        {
+            "id": "CZK",
+            "description": "Czech Koruna",
+            "reverseUsdQuot": false,
+            "rates": [
+                {
+                    "currency": "EUR",
+                    "description": "Euro",
+                    "sellTransfer": "25.74",
+                    "buyTransfer": "26.67"
+                },
+                {
+                    "currency": "USD",
+                    "description": "US Dollar",
+                    "sellTransfer": "21.58",
+                    "buyTransfer": "22.365"
+                }
+            ]
+        },
+        {
+            "id": "DKK",
+            "description": "Danish Krone",
+            "reverseUsdQuot": false,
+            "rates": [
+                {
+                    "currency": "EUR",
+                    "description": "Euro",
+                    "sellTransfer": "7.306",
+                    "buyTransfer": "7.567"
+                },
+                {
+                    "currency": "USD",
+                    "description": "US Dollar",
+                    "sellTransfer": "6.126",
+                    "buyTransfer": "6.345"
+                }
+            ]
+        },
+        {
+            "id": "GBP",
+            "description": "Pound Sterling",
+            "reverseUsdQuot": true,
+            "rates": [
+                {
+                    "currency": "EUR",
+                    "description": "Euro",
+                    "sellRate": "0.838",
+                    "buyRate": "0.878",
+                    "sellTransfer": "0.838",
+                    "buyTransfer": "0.873"
+                },
+                {
+                    "currency": "USD",
+                    "description": "US Dollar",
+                    "sellRate": "1.356",
+                    "buyRate": "1.429",
+                    "sellTransfer": "1.366",
+                    "buyTransfer": "1.422"
+                }
+            ]
+        },
+        {
+            "id": "JPY",
+            "description": "Japanese Yen",
+            "reverseUsdQuot": false,
+            "rates": [
+                {
+                    "currency": "EUR",
+                    "description": "Euro",
+                    "sellTransfer": "127.03",
+                    "buyTransfer": "132.22"
+                },
+                {
+                    "currency": "USD",
+                    "description": "US Dollar",
+                    "sellTransfer": "106.51",
+                    "buyTransfer": "110.86"
+                }
+            ]
+        },
+        {
+            "id": "KZT",
+            "description": "Kazahstan Tenga",
+            "reverseUsdQuot": false,
+            "rates": [
+                {
+                    "currency": "EUR",
+                    "description": "Euro"
+                },
+                {
+                    "currency": "USD",
+                    "description": "US Dollar"
+                }
+            ]
+        },
+        {
+            "id": "NOK",
+            "description": "Norvegian Krone",
+            "reverseUsdQuot": false,
+            "rates": [
+                {
+                    "currency": "EUR",
+                    "description": "Euro",
+                    "sellRate": "9.859",
+                    "buyRate": "10.288",
+                    "sellTransfer": "9.87",
+                    "buyTransfer": "10.223"
+                },
+                {
+                    "currency": "USD",
+                    "description": "US Dollar",
+                    "sellRate": "8.231",
+                    "buyRate": "8.639",
+                    "sellTransfer": "8.274",
+                    "buyTransfer": "8.571"
+                }
+            ]
+        },
+        {
+            "id": "NZD",
+            "description": "New Zealand Dollar",
+            "reverseUsdQuot": true,
+            "rates": [
+                {
+                    "currency": "EUR",
+                    "description": "Euro",
+                    "sellTransfer": "1.622",
+                    "buyTransfer": "1.6891"
+                },
+                {
+                    "currency": "USD",
+                    "description": "US Dollar",
+                    "sellTransfer": "0.7059",
+                    "buyTransfer": "0.7349"
+                }
+            ]
+        },
+        {
+            "id": "PLN",
+            "description": "Poland Zlot New",
+            "reverseUsdQuot": false,
+            "rates": [
+                {
+                    "currency": "EUR",
+                    "description": "Euro",
+                    "sellRate": "4.442",
+                    "buyRate": "4.712",
+                    "sellTransfer": "4.484",
+                    "buyTransfer": "4.669"
+                },
+                {
+                    "currency": "USD",
+                    "description": "US Dollar",
+                    "sellRate": "3.714",
+                    "buyRate": "3.957",
+                    "sellTransfer": "3.769",
+                    "buyTransfer": "3.915"
+                }
+            ]
+        },
+        {
+            "id": "RUR",
+            "description": "Russian Rouble",
+            "reverseUsdQuot": false,
+            "rates": [
+                {
+                    "currency": "EUR",
+                    "description": "Euro",
+                    "sellRate": "84.89",
+                    "buyRate": "92.52",
+                    "sellTransfer": "84.27",
+                    "buyTransfer": "95.08"
+                },
+                {
+                    "currency": "USD",
+                    "description": "US Dollar",
+                    "sellRate": "71",
+                    "buyRate": "77.68",
+                    "sellTransfer": "70.67",
+                    "buyTransfer": "79.71"
+                }
+            ]
+        },
+        {
+            "id": "SEK",
+            "description": "Swedish Krone",
+            "reverseUsdQuot": false,
+            "rates": [
+                {
+                    "currency": "EUR",
+                    "description": "Euro",
+                    "sellRate": "9.918",
+                    "buyRate": "10.341",
+                    "sellTransfer": "9.929",
+                    "buyTransfer": "10.286"
+                },
+                {
+                    "currency": "USD",
+                    "description": "US Dollar",
+                    "sellRate": "8.282",
+                    "buyRate": "8.683",
+                    "sellTransfer": "8.326",
+                    "buyTransfer": "8.623"
+                }
+            ]
+        },
+        {
+            "id": "USD",
+            "description": "US Dollar",
+            "reverseUsdQuot": false,
+            "rates": [
+                {
+                    "currency": "EUR",
+                    "description": "Euro",
+                    "sellRate": "1.172",
+                    "buyRate": "1.217",
+                    "sellTransfer": "1.172",
+                    "buyTransfer": "1.214"
+                },
+                {
+                    "currency": "USD",
+                    "description": "US Dollar"
+                }
+            ]
+        }
+    ],
+    "actions": [],
+    "success": true,
+    "invalidated": false,
+    "exceptions": {}
+}
